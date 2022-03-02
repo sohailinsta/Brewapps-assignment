@@ -1,0 +1,84 @@
+.first-para{
+margin-top: 5px;
+margin-left: 10px;
+}
+
+
+.icon-para{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.para{
+    margin-left: 10px;
+    margin-top: 4px;
+    font-weight: 300;
+}
+
+.trending-box{
+    background-color: antiquewhite;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 156.67px;
+    height: 39.22px;
+    border-radius: 20px;
+    border: 2px solid rgb(151, 142, 142);
+}
+
+.icon-trending{
+    display: flex;
+    align-items: center;
+    padding-left: 17px;
+    padding-top: 5px;
+}
+
+.pic-style{
+    width: 20px;
+    height: 20px;
+}
+
+.icons-text-main{
+    display: flex;
+    align-items: center;
+}
+
+.margin-text{
+    padding-left: 3px;
+    padding-top: 3px;
+}
+
+.icon-trendingtwo{
+    padding-left: 34px;
+    padding-top: 8px;
+}
+
+.icon-trendingthree{
+    padding-left: 31px;
+    padding-top: 8px;
+}
+
+.trending-box-popular{
+        background-color: rgb(19, 18, 18);
+        color: aliceblue;
+        margin-top: 30px;
+        margin-left: 10px;
+        width: 156.67px;
+        height: 39.22px;
+        border-radius: 20px;
+        border: 2px solid rgb(151, 142, 142);
+}
+
+.pic-style1{
+    width: 25px;
+    height: 25px;
+}
+
+.margin-text-1{
+    padding-left: 6px;  
+}
+
+.margin-text-2{
+    padding-left: 14px;  
+}
